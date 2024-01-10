@@ -55,5 +55,5 @@
 0.0.0.0 tankionline.com
 0.0.0.0 playhop.com
 0.0.0.0 minijuegos.com
-
+0.0.0.0 www.crazygames.com
 
