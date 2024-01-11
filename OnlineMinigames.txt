@@ -57,4 +57,13 @@
 0.0.0.0 playhop.com
 0.0.0.0 minijuegos.com
 0.0.0.0 www.crazygames.com
+0.0.0.0 bloxd.io
+0.0.0.0 playminigames.net
+0.0.0.0 miniplay.com
+0.0.0.0 itch.io
+0.0.0.0 modd.io
+0.0.0.0 minigiants.io
+0.0.0.0 splits.io
+0.0.0.0 Arc.io
+
 
