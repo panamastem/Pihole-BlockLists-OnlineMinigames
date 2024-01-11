@@ -31,7 +31,7 @@
 0.0.0.0 stickpage.com
 0.0.0.0 armorgames.com
 0.0.0.0 unblockedgamesite.com
-0.0.0.0 poki.com
+0.0.0.0 www.poki.com
 0.0.0.0 minigames.com
 0.0.0.0 miniplay.com
 0.0.0.0 poki.com
