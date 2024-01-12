@@ -68,3 +68,6 @@
 0.0.0.0 minijuegos.com
 0.0.0.0 cooljuegos.com
 0.0.0.0 Eaglercraft.q13x.com
+0.0.0.0 classic.minecraft.net
+0.0.0.0 minecraft.net
+
