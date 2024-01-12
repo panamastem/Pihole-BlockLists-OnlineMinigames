@@ -65,5 +65,7 @@
 0.0.0.0 minigiants.io
 0.0.0.0 splits.io
 0.0.0.0 Arc.io
+0.0.0.0 minijuegos.com
+0.0.0.0 cooljuegos.com
 
 
