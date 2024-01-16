@@ -71,4 +71,5 @@
 0.0.0.0 Eaglercraft.com
 0.0.0.0 classic.minecraft.net
 0.0.0.0 minecraft.net
+0.0.0.0 stubmbleguys.com
 
