@@ -73,3 +73,5 @@
 0.0.0.0 minecraft.net
 0.0.0.0 stubmbleguys.com
 0.0.0.0 juegos.io
+0.0.0.0 geometrydash.io
+0.0.0.0 1001juegos.com
