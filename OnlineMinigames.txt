@@ -75,3 +75,6 @@
 0.0.0.0 juegos.io
 0.0.0.0 geometrydash.io
 0.0.0.0 1001juegos.com
+0.0.0.0 geometrydashlite.io
+0.0.0.0 roblox.com
+0.0.0.0 api.roblox.com
