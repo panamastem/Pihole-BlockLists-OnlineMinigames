@@ -1,6 +1,6 @@
 # Title: SYS_zer0's OnlineMinigames.txt
 # Released: 2024-01-10T02:06:50 GMT-5
-# Website count: 80
+# Website count: 85
 #
 # Copyright 2024 Alexander Caceres
 #
@@ -97,3 +97,8 @@
 0.0.0.0 playminigames.net
 0.0.0.0 play-games.com
 0.0.0.0 tinytap.com
+0.0.0.0 roblox.com/
+0.0.0.0 www.roblox.com
+0.0.0.0 roblox.en.softonic.com
+0.0.0.0 www.roblox.com/NewLogin
+0.0.0.0 bluestacks.com
