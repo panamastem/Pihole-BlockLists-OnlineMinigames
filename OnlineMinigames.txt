@@ -118,6 +118,8 @@ minecraft.de
 minecraft.com
 hypixel.net
 newgrounds.com
+tokyvideo.com
+justwatch.com
 
 # nVidia
 ls.dtrace.nvidia.com
