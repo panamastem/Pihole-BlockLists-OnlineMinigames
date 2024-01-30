@@ -175,3 +175,4 @@ googleads.g.doubleclick.net
 googletagmanager.com
 
 minijuegos.com
+kirkaio.org
