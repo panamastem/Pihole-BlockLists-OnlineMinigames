@@ -176,4 +176,8 @@ googletagmanager.com
 
 minijuegos.com
 kirkaio.org
-Orteil.dashnet.org
+*.dashnet.org
+minijuegos.com
+www.minijuegos.com
+g8-games.com
+kbhgames.com
