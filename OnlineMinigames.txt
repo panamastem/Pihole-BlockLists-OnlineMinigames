@@ -176,8 +176,11 @@ googletagmanager.com
 
 minijuegos.com
 kirkaio.org
-*.dashnet.org
+dashnet.org
 minijuegos.com
 www.minijuegos.com
 g8-games.com
 kbhgames.com
+reddit.com
+youtube.com
+
