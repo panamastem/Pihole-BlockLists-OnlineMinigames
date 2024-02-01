@@ -183,5 +183,5 @@ g8-games.com
 kbhgames.com
 reddit.com
 youtube.com
-.*\.dashnet\.org
+orteil.dashnet.org
 
