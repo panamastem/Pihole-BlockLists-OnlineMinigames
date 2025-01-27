@@ -225,3 +225,7 @@ www.cooljuegos.com
 yandex.com/games/
 www.stickgames.com
 stickgames.com
+geometrygame.org
+www.geometrygame.org
+geometrygame.io
+www.geometrygame.io
