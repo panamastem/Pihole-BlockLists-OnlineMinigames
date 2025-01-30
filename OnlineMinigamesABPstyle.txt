@@ -71,24 +71,25 @@
 ||classic.minecraft.net^ 
 ||minecraft.net^ 
 ||stubmbleguys.com^
+||doodles.google^
 
-juegos.io ^
-geometrydash.io ^
-1001juegos.com ^
-geometrydashlite.io ^
-roblox.com ^
-api.roblox.com ^
-watchdocumentaries.com ^
-geometrydashlite.io ^
-geometry-dashlite.io ^
-geometrydashlite.co ^
-geometrydash.io ^
-geometrydash-lite.com ^
-geometrydashlite.net ^
-geometrydash.io ^
-geometrylite.io ^
-geometrydashworld.net ^
-geometrylite.co ^
+||juegos.io ^
+||geometrydash.io ^
+||1001juegos.com ^
+||geometrydashlite.io ^
+||roblox.com ^
+||api.roblox.com ^
+||watchdocumentaries.com ^
+||geometrydashlite.io ^
+||geometry-dashlite.io ^
+||geometrydashlite.co ^
+||geometrydash.io ^
+||geometrydash-lite.com ^
+||geometrydashlite.net ^
+||geometrydash.io ^
+||geometrylite.io ^
+||geometrydashworld.net ^
+||geometrylite.co ^
 
 miniplay.com ^
 geometrydashmeltdown.com ^
@@ -155,14 +156,14 @@ api.treasuredata.com ^
 telemetry-in.battle.net ^
 
 # Epic Games domains to block
-dev.epicgames.com ^
-api.epicgames.dev ^
-et.epicgames.com ^
-et2.epicgames.com ^
-udn.epicgames.com ^
-etsource.epicgames.com ^
-metrics.ol.epicgames.com ^
-datarouter.ol.epicgames.com ^
+||dev.epicgames.com ^
+||api.epicgames.dev ^
+||et.epicgames.com ^
+||et2.epicgames.com ^
+||udn.epicgames.com ^
+||etsource.epicgames.com ^
+||metrics.ol.epicgames.com ^
+||datarouter.ol.epicgames.com ^
 
 # Unity Engine domains to block
 cdp.cloud.unity3d.com ^
@@ -176,14 +177,14 @@ remote-config-proxy-prd.uca.cloud.unity3d.com ^
 data-optout-service.uca.cloud.unity3d.com ^
 
 # GOG domains to block
-marketing-sections.gog.com ^
-insights-collector.gog.com ^
+||marketing-sections.gog.com ^
+||insights-collector.gog.com ^
 
 # Google domains to block for analytics and ads tracking.
-google-analytics.*$domain=google-analytics.*
-pagead.googlesyndication.*$domain=pagead.googlesyndication.*
-ad.doubleclick.*$domain=ad.doubleclick.*
-ypn-js.overture.*$domain=ypn-js.overture.*
-googleads.g.doubleclick.*$domain=googleads.g.doubleclick.*
-googletagmanager.*$domain=googletagmanager.*
+||google-analytics.*$domain=google-analytics.*
+||pagead.googlesyndication.*$domain=pagead.googlesyndication.*
+||ad.doubleclick.*$domain=ad.doubleclick.*
+||ypn-js.overture.*$domain=ypn-js.overture.*
+||googleads.g.doubleclick.*$domain=googleads.g.doubleclick.*
+||googletagmanager.*$domain=googletagmanager.*
 
