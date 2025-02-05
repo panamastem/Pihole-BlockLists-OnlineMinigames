@@ -91,69 +91,69 @@
 ||geometrydashworld.net ^
 ||geometrylite.co ^
 
-miniplay.com ^
-geometrydashmeltdown.com ^
-geometrylite.io ^
+||miniplay.com ^
+||geometrydashmeltdown.com ^
+||geometrylite.io ^
 
-geometry-dash.fandom.com ^
+||geometry-dash.fandom.com ^
 
-playminigames.net ^
+||playminigames.net ^
 
-play-games.com ^
+||play-games.com ^
 
-tinytap.com ^
+||tinytap.com ^
 
-roblox.en.softonic.com ^
+||roblox.en.softonic.com ^
 
-bluestacks.com ^
+||bluestacks.com ^
 
-1001juegos.com ^
+||1001juegos.com ^
 
-mixfreegames.com ^
+||mixfreegames.com ^
 
-discordapp.com ^
+||discordapp.com ^
 
-discord.gg ^
+||discord.gg ^
 
-discordapp.net ^
+||discordapp.net ^
 
-rbxcdn.com ^
+||rbxcdn.com ^
 
-gamejolt.com ^
+||gamejolt.com ^
 
-steam.com ^
+||steam.com ^
 
-steampowered.com ^
+||steampowered.com ^
 
-minecraft.de ^ 
+||minecraft.de ^ 
 
-minecraft.com ^ 
+||minecraft.com ^ 
 
-hypixel.net ^ 
+||hypixel.net ^ 
 
-newgrounds.co ^ 
+||newgrounds.co ^ 
 
-tokyvideo.com ^ 
+||tokyvideo.com ^ 
 
-justwatch.com ^ 
+||justwatch.com ^ 
 
 # nVidia domains to block
-ls.dtrace.nvidia.com ^
-telemetry.gfe.nvidia.com ^
-accounts.nvgs.nvidia.com ^
-nvidia.tt.omtrdc.net ^
-api.commune.ly ^
-login.nvgs.nvidia.cn ^
-events.gfe.nvidia.com ^
+||ls.dtrace.nvidia.com ^
+||telemetry.gfe.nvidia.com ^
+||accounts.nvgs.nvidia.com ^
+||nvidia.tt.omtrdc.net ^
+||api.commune.ly ^
+||login.nvgs.nvidia.cn ^
+||events.gfe.nvidia.com ^
 
 # Redshell domains to block
-redshell.io ^
-api.redshell.io ^
-treasuredata.com ^
-api.treasuredata.com ^
+||redshell.io ^
+||api.redshell.io ^
+||treasuredata.com ^
+||api.treasuredata.com ^
 
 # Blizzard domains to block
-telemetry-in.battle.net ^
+||telemetry-in.battle.net ^
 
 # Epic Games domains to block
 ||dev.epicgames.com ^
@@ -166,25 +166,27 @@ telemetry-in.battle.net ^
 ||datarouter.ol.epicgames.com ^
 
 # Unity Engine domains to block
-cdp.cloud.unity3d.com ^
-api.uca.cloud.unity3d.com ^
-config.uca.cloud.unity3d.com ^
-perf-events.cloud.unity3d.com ^
-prd-lender.cdp.internal.unity3d.com ^
-thind-gke-usc.prd.data.corp.unity3d.com ^
-thind-prd-knob.data.ie.unity3d.com ^
-remote-config-proxy-prd.uca.cloud.unity3d.com ^
-data-optout-service.uca.cloud.unity3d.com ^
+||cdp.cloud.unity3d.com ^
+||api.uca.cloud.unity3d.com ^
+||config.uca.cloud.unity3d.com ^
+||perf-events.cloud.unity3d.com ^
+||prd-lender.cdp.internal.unity3d.com ^
+||thind-gke-usc.prd.data.corp.unity3d.com ^
+||thind-prd-knob.data.ie.unity3d.com ^
+||remote-config-proxy-prd.uca.cloud.unity3d.com ^
+||data-optout-service.uca.cloud.unity3d.com ^
 
 # GOG domains to block
 ||marketing-sections.gog.com ^
 ||insights-collector.gog.com ^
 
-# Google domains to block for analytics and ads tracking.
-||google-analytics.*$domain=google-analytics.*
-||pagead.googlesyndication.*$domain=pagead.googlesyndication.*
-||ad.doubleclick.*$domain=ad.doubleclick.*
-||ypn-js.overture.*$domain=ypn-js.overture.*
-||googleads.g.doubleclick.*$domain=googleads.g.doubleclick.*
-||googletagmanager.*$domain=googletagmanager.*
-
+||miniclip.com^
+||kongregate.com^
+||armorgames.com^
+||crazygames.com^
+||poki.com^
+||y8.com^
+||addictinggames.com^
+||agame.com^
+||gamepix.com^
+||nitrome.com^
