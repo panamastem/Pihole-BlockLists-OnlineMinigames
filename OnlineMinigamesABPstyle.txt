@@ -199,3 +199,4 @@
 ||45.148.121.53^
 ||frivclassic.com^
 ||frivantiguo.net^
+||twoplayergames.org^
