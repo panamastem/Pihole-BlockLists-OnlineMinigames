@@ -200,3 +200,5 @@
 ||frivclassic.com^
 ||frivantiguo.net^
 ||twoplayergames.org^
+||motox3m.gitlab.io^
+||friv2017.com^
