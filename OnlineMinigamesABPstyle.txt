@@ -1,29 +1,17 @@
 [Adblock Plus]
-! Title: SYS_zer0's OnlineMinigames.txt
-! Released: 2024-01-10T02:06:50 GMT-5
-! Website count: 85
-! 
-! Copyright 2025 Alexander Caceres
-! 
-! Licensed under the Apache License, Version 2.0 (the "License");
-! you may not use this file except in compliance with the License.
-! You may obtain a copy of the License at
-! 
-! http://www.apache.org/licenses/LICENSE-2.0
-! 
-! Unless required by applicable law or agreed to in writing, software
-! distributed under the License is distributed on an "AS IS" BASIS,
-! WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-! See the License for the specific language governing permissions and
-! limitations under the License.
+! Title: SYS_zer0's OnlineMinigames (ABP)
+! Description: Blocks online minigame, gaming, telemetry and tracking domains
+! Updated: 2025-12-26
+! Homepage: https://example.com/your-list-url
+! License: Apache-2.0
 
+! Online minigames & gaming sites
 ||friv.com^
 ||www.friv.com^
 ||addictinggames.com^
 ||silvergames.com^
 ||oakdalegames.weebly.com^
 ||stickgames.com^
-||www.addictinggames.com^
 ||learntofly3unblockedd.com^
 ||kongregate.com^
 ||papalouie.com^
@@ -32,12 +20,13 @@
 ||stickpage.com^
 ||armorgames.com^
 ||unblockedgamesite.com^
+||poki.com^
 ||www.poki.com^
 ||minigames.com^
 ||miniplay.com^
-||poki.com^
 ||gameforge.com^
 ||crazygames.com^
+||www.crazygames.com^
 ||playminigames.net^
 ||agame.com^
 ||miniclip.com^
@@ -47,147 +36,58 @@
 ||now.gg^
 ||ev.io^
 ||plays.org^
-||gameforge.com^ 
-||itch.io^ 
-||totallysciences.one^ 
-||gamesgames.com^ 
-||game-game.com^ 
-||tankionline.com^ 
-||playhop.com^ 
-||minijuegos.com^ 
-||www.crazygames.com^ 
-||bloxd.io^ 
-||playminigames.net^ 
-||miniplay.com^ 
-||itch.io^ 
-||modd.io^ 
-||minigiants.io^ 
-||splits.io^ 
-||Arc.io^ 
-||minijuegos.com^ 
-||cooljuegos.com^ 
-||Eaglercraft.q13x.com^ 
-||Eaglercraft.com^ 
-||classic.minecraft.net^ 
-||minecraft.net^ 
+||itch.io^
+||totallysciences.one^
+||gamesgames.com^
+||game-game.com^
+||tankionline.com^
+||minijuegos.com^
+||bloxd.io^
+||modd.io^
+||minigiants.io^
+||splits.io^
+||arc.io^
+||cooljuegos.com^
+||eaglercraft.q13x.com^
+||eaglercraft.com^
+||classic.minecraft.net^
+||minecraft.net^
 ||stubmbleguys.com^
 ||doodles.google^
-
-||juegos.io ^
-||geometrydash.io ^
-||1001juegos.com ^
-||geometrydashlite.io ^
-||roblox.com ^
-||api.roblox.com ^
-||watchdocumentaries.com ^
-||geometrydashlite.io ^
-||geometry-dashlite.io ^
-||geometrydashlite.co ^
-||geometrydash.io ^
-||geometrydash-lite.com ^
-||geometrydashlite.net ^
-||geometrydash.io ^
-||geometrylite.io ^
-||geometrydashworld.net ^
-||geometrylite.co ^
-
-||miniplay.com ^
-||geometrydashmeltdown.com ^
-||geometrylite.io ^
-
-||geometry-dash.fandom.com ^
-
-||playminigames.net ^
-
-||play-games.com ^
-
-||tinytap.com ^
-
-||roblox.en.softonic.com ^
-
-||bluestacks.com ^
-
-||1001juegos.com ^
-
-||mixfreegames.com ^
-
-||discordapp.com ^
-
-||discord.gg ^
-
-||discordapp.net ^
-
-||rbxcdn.com ^
-
-||gamejolt.com ^
-
-||steam.com ^
-
-||steampowered.com ^
-
-||minecraft.de ^ 
-
-||minecraft.com ^ 
-
-||hypixel.net ^ 
-
-||newgrounds.co ^ 
-
-||tokyvideo.com ^ 
-
-||justwatch.com ^ 
-
-# nVidia domains to block
-||ls.dtrace.nvidia.com ^
-||telemetry.gfe.nvidia.com ^
-||accounts.nvgs.nvidia.com ^
-||nvidia.tt.omtrdc.net ^
-||api.commune.ly ^
-||login.nvgs.nvidia.cn ^
-||events.gfe.nvidia.com ^
-
-# Redshell domains to block
-||redshell.io ^
-||api.redshell.io ^
-||treasuredata.com ^
-||api.treasuredata.com ^
-
-# Blizzard domains to block
-||telemetry-in.battle.net ^
-
-# Epic Games domains to block
-||dev.epicgames.com ^
-||api.epicgames.dev ^
-||et.epicgames.com ^
-||et2.epicgames.com ^
-||udn.epicgames.com ^
-||etsource.epicgames.com ^
-||metrics.ol.epicgames.com ^
-||datarouter.ol.epicgames.com ^
-
-# Unity Engine domains to block
-||cdp.cloud.unity3d.com ^
-||api.uca.cloud.unity3d.com ^
-||config.uca.cloud.unity3d.com ^
-||perf-events.cloud.unity3d.com ^
-||prd-lender.cdp.internal.unity3d.com ^
-||thind-gke-usc.prd.data.corp.unity3d.com ^
-||thind-prd-knob.data.ie.unity3d.com ^
-||remote-config-proxy-prd.uca.cloud.unity3d.com ^
-||data-optout-service.uca.cloud.unity3d.com ^
-
-# GOG domains to block
-||marketing-sections.gog.com ^
-||insights-collector.gog.com ^
-
-||miniclip.com^
-||kongregate.com^
-||armorgames.com^
-||crazygames.com^
-||poki.com^
-||y8.com^
-||addictinggames.com^
-||agame.com^
+||juegos.io^
+||geometrydash.io^
+||1001juegos.com^
+||geometrydashlite.io^
+||roblox.com^
+||api.roblox.com^
+||watchdocumentaries.com^
+||geometry-dashlite.io^
+||geometrydashlite.co^
+||geometrydash-lite.com^
+||geometrydashlite.net^
+||geometrylite.io^
+||geometrydashworld.net^
+||geometrylite.co^
+||geometrydashmeltdown.com^
+||geometry-dash.fandom.com^
+||play-games.com^
+||tinytap.com^
+||roblox.en.softonic.com^
+||bluestacks.com^
+||mixfreegames.com^
+||discordapp.com^
+||discord.gg^
+||discordapp.net^
+||rbxcdn.com^
+||gamejolt.com^
+||steam.com^
+||steampowered.com^
+||minecraft.de^
+||minecraft.com^
+||hypixel.net^
+||newgrounds.co^
+||tokyvideo.com^
+||justwatch.com^
 ||gamepix.com^
 ||nitrome.com^
 ||juegosfriv2017.net^
@@ -196,9 +96,52 @@
 ||frivantiguo.net^
 ||friv10000.com^
 ||frivclassic.org^
-||45.148.121.53^
 ||frivclassic.com^
-||frivantiguo.net^
 ||twoplayergames.org^
 ||motox3m.gitlab.io^
 ||friv2017.com^
+||y8.com^
+||45.148.121.53^
+
+! nVidia telemetry
+||ls.dtrace.nvidia.com^
+||telemetry.gfe.nvidia.com^
+||accounts.nvgs.nvidia.com^
+||nvidia.tt.omtrdc.net^
+||api.commune.ly^
+||login.nvgs.nvidia.cn^
+||events.gfe.nvidia.com^
+
+! Redshell tracking
+||redshell.io^
+||api.redshell.io^
+||treasuredata.com^
+||api.treasuredata.com^
+
+! Blizzard telemetry
+||telemetry-in.battle.net^
+
+! Epic Games telemetry
+||dev.epicgames.com^
+||api.epicgames.dev^
+||et.epicgames.com^
+||et2.epicgames.com^
+||udn.epicgames.com^
+||etsource.epicgames.com^
+||metrics.ol.epicgames.com^
+||datarouter.ol.epicgames.com^
+
+! Unity analytics
+||cdp.cloud.unity3d.com^
+||api.uca.cloud.unity3d.com^
+||config.uca.cloud.unity3d.com^
+||perf-events.cloud.unity3d.com^
+||prd-lender.cdp.internal.unity3d.com^
+||thind-gke-usc.prd.data.corp.unity3d.com^
+||thind-prd-knob.data.ie.unity3d.com^
+||remote-config-proxy-prd.uca.cloud.unity3d.com^
+||data-optout-service.uca.cloud.unity3d.com^
+
+! GOG marketing/insights
+||marketing-sections.gog.com^
+||insights-collector.gog.com^
